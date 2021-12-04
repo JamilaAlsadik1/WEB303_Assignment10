@@ -1,0 +1,12 @@
+body{
+   max-width: 830px;
+   margin: 0px auto; 
+}
+input .disabled{
+    background-color: #999;
+}
+.msg{
+    width: 100%;
+    font-size: 20px;
+    display: none;
+}
